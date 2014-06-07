@@ -1,6 +1,6 @@
 name: foo
 version: 0.0.0.1
-cabal-version: >=1.7.0
+cabal-version: >=1.7.1
 build-type: Simple
 license: MIT
 synopsis: Has both libarary and executable stanzas both of which have dependencies.
