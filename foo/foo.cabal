@@ -5,11 +5,6 @@ build-type: Simple
 license: MIT
 synopsis: Has both libarary and executable stanzas both of which have dependencies.
 
-library
-    build-depends:
-        base >=4.4 && <5
-    hs-source-dirs: src
-
 executable foo
     build-depends:
         base >=4 && <5,
