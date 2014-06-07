@@ -1,0 +1,7 @@
+.cabal-sandbox/
+.hpc/
+cabal.sandbox.config
+dist/
+tests.tix
+bar/freeze.after
+bar/freeze.before

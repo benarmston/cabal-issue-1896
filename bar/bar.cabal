@@ -1,0 +1,11 @@
+name: bar
+version: 0.0.0.1
+cabal-version: >=1.4
+build-type: Simple
+license: MIT
+
+library
+    build-depends:
+        base -any,
+        foo ==0.0.0.1
+
